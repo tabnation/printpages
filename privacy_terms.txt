@@ -2,11 +2,11 @@
 Privacy Policy & Terms of Use
 =============================
 
-Effective Date: [Insert Date]
+Effective Date: 07/25/2025
 
 Introduction
 ------------
-This app ("the App") is designed as a tool to assist educators, paraprofessionals, and other support personnel in organizing tasks, tracking information, and optionally entering notes related to their professional responsibilities. 
+This app ("paranow") is designed as a tool to assist educators, paraprofessionals, and other support personnel in organizing tasks, tracking information, and optionally entering notes related to their professional responsibilities. 
 
 By using this App, you agree to the terms outlined in this document.
 
@@ -54,9 +54,9 @@ Contact
 -------
 If you have any questions about these terms or how the App handles data, please contact:
 
-[Your Name or Organization]  
-Email: [Your Contact Email]  
-Website: [https://paranow.xyz or your project site]
+tab nation  
+Email: team@paranow.xyz 
+Website: https://paranow.xyz
 
 ---
 
