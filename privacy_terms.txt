@@ -1,0 +1,63 @@
+
+Privacy Policy & Terms of Use
+=============================
+
+Effective Date: [Insert Date]
+
+Introduction
+------------
+This app ("the App") is designed as a tool to assist educators, paraprofessionals, and other support personnel in organizing tasks, tracking information, and optionally entering notes related to their professional responsibilities. 
+
+By using this App, you agree to the terms outlined in this document.
+
+No Cloud Data Collection
+------------------------
+The App does NOT collect, transmit, or store any user-entered data to external servers unless explicitly stated otherwise. All information you enter is stored locally on your device unless you manually export, back up, or sync it to a cloud service (if supported).
+
+User Responsibility
+-------------------
+You are solely responsible for any data you enter into the App, including personal or student-related information. You must ensure that:
+
+- Your device is secured with a strong password, biometric lock, or equivalent protection.
+- You comply with your organization’s privacy and data protection policies.
+- Any data entry complies with the Family Educational Rights and Privacy Act (FERPA) or other relevant privacy laws.
+- You do not enter sensitive student information unless permitted to do so under applicable law and institutional policy.
+
+Disclaimer
+----------
+The developers of this App do not assume liability for any unauthorized access, data breaches, or user misuse of the App or data entered therein. The App is provided “as is” without any warranties, express or implied.
+
+Data Storage
+------------
+Unless stated otherwise:
+- All data is stored on your local device.
+- The App does not transmit data over the internet.
+- If the App includes optional features for exporting, syncing, or backing up, these must be activated by you, and are used at your own discretion.
+
+User Warnings
+-------------
+Before creating or saving pages that may include sensitive data, you will receive a warning. By continuing, you confirm that you understand and accept responsibility for compliance with relevant privacy laws.
+
+Third-Party Services
+--------------------
+If the App integrates with optional third-party services (e.g., cloud storage, Google Drive, Supabase), those services may have their own terms and privacy policies. The App does not share data with third parties unless explicitly authorized by you.
+
+Children's Data
+---------------
+The App is not intended for direct use by students or minors. Users must be responsible adults acting in a professional capacity.
+
+Changes to Terms
+----------------
+These terms may be updated occasionally to reflect changes in functionality or legal requirements. Continued use of the App constitutes acceptance of the updated terms.
+
+Contact
+-------
+If you have any questions about these terms or how the App handles data, please contact:
+
+[Your Name or Organization]  
+Email: [Your Contact Email]  
+Website: [https://paranow.xyz or your project site]
+
+---
+
+Thank you for using this App responsibly.
