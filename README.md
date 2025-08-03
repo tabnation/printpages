@@ -50,9 +50,6 @@ Email: support@paranow.xyz
 
 ## Credits
 
-Some images and symbols used are credited to external sources (e.g., PECS-style communication icons).  
-Credits are noted on the relevant tool pages.  
-
 ParaNow is independently maintained and offered as a community resource.
 
 ---
