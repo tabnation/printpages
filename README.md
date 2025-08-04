@@ -44,7 +44,7 @@ No login or payment required.
 Suggestions, feedback, or contributions are welcome!  
 Please open an issue or email us directly.
 
-Email: support@paranow.xyz
+Email: team@paranow.xyz
 
 ---
 
