@@ -1,0 +1,3 @@
+https://www.senteacher.org/images/defaultimage.png
+
+Cannot download image; STATUS_CODE_404
